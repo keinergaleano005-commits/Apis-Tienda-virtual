@@ -10,6 +10,8 @@ API REST desarrollada para una tienda virtual que permite la gestión de usuario
 - **Bcrypt.js** - Cifrado de contraseñas
 - **Postman** - Prueba de endpoints
 
+## URL del repositorio: https://github.com/keinergaleano005-commits/Apis-Tienda-virtual.git
+
 ## Estructura del Proyecto
 proyecto/
 │
